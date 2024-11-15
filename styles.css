@@ -25,7 +25,8 @@ nav ul li {
     margin: 0 15px;
 }
 
-h1, h2 {
+h1,
+h2 {
     color: #333;
 }
 
@@ -41,14 +42,14 @@ main {
 }
 
 summary {
-    cursor: pointer; 
-    outline: none; 
+    cursor: pointer;
+    outline: none;
 }
 
 #interesses li {
-    list-style: none; 
+    list-style: none;
 }
 
 #gostos li {
-    list-style: none; 
+    list-style: none;
 }
