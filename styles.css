@@ -1,0 +1,54 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #f4f4f4;
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+summary {
+    cursor: pointer; 
+    outline: none; 
+}
+
+#interesses li {
+    list-style: none; 
+}
+
+#gostos li {
+    list-style: none; 
+}
